@@ -4,8 +4,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=47adore&label=Profile%20views&color=0e75b6&style=flat" alt="47adore" /> </p>
 
-~=
-
 ## <h3 align="left">🌐 Socials:</h3>
 <p align="left"> Discord: Turcja </p>
 <p align="left">
